@@ -19,7 +19,6 @@ public class Answer
 
     public static void PrintArray(string[] array)
     {
-    // Введите свое решение ниже
     string res="";
     for (int i=0; i< array.Length-1; i++)
       {
@@ -60,7 +59,6 @@ public class Answer
         return res;
     }
 
-// Не удаляйте и не меняйте метод Main! 
     public static void Main(string[] args)
     {
         int leght= Convert.ToInt32( Print($"Введите количество элементов"));
