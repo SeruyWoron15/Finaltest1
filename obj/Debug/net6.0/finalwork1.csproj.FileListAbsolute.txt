@@ -1,0 +1,15 @@
+D:\програмы\geekbrains\finalwork1\bin\Debug\net6.0\finalwork1.exe
+D:\програмы\geekbrains\finalwork1\bin\Debug\net6.0\finalwork1.deps.json
+D:\програмы\geekbrains\finalwork1\bin\Debug\net6.0\finalwork1.runtimeconfig.json
+D:\програмы\geekbrains\finalwork1\bin\Debug\net6.0\finalwork1.dll
+D:\програмы\geekbrains\finalwork1\bin\Debug\net6.0\finalwork1.pdb
+D:\програмы\geekbrains\finalwork1\obj\Debug\net6.0\finalwork1.csproj.AssemblyReference.cache
+D:\програмы\geekbrains\finalwork1\obj\Debug\net6.0\finalwork1.GeneratedMSBuildEditorConfig.editorconfig
+D:\програмы\geekbrains\finalwork1\obj\Debug\net6.0\finalwork1.AssemblyInfoInputs.cache
+D:\програмы\geekbrains\finalwork1\obj\Debug\net6.0\finalwork1.AssemblyInfo.cs
+D:\програмы\geekbrains\finalwork1\obj\Debug\net6.0\finalwork1.csproj.CoreCompileInputs.cache
+D:\програмы\geekbrains\finalwork1\obj\Debug\net6.0\finalwork1.dll
+D:\програмы\geekbrains\finalwork1\obj\Debug\net6.0\refint\finalwork1.dll
+D:\програмы\geekbrains\finalwork1\obj\Debug\net6.0\finalwork1.pdb
+D:\програмы\geekbrains\finalwork1\obj\Debug\net6.0\finalwork1.genruntimeconfig.cache
+D:\програмы\geekbrains\finalwork1\obj\Debug\net6.0\ref\finalwork1.dll
